@@ -1,0 +1,39 @@
+STT,NHÓM NGÀNH HÀNG,THƯƠNG HIỆU,SẢN PHẨM CHÍNH,image_path
+1,Chăm sóc trẻ em,Pampers,"Tã giấy, tã quần cho em bé",images/Logo/Pampers.jpg
+,,Charlie Banana,Tã vải,
+,,Ninjamas,Quần lót ban đêm cho trẻ,
+2,Chăm sóc vải,Ariel,"Bột giặt, nước giặt",images/Logo/Ariel.png
+,,Tide,"Bột giặt, nước giặt",images/Logo/Tide.png
+,,Downy,Nước xả vải,images/Logo/Downy.png
+,,Gain,"Nước giặt, nước xả vải",
+,,Dreft,Nước giặt chuyên dụng cho quần áo trẻ em,
+,,Lenor,Nước xả vải,
+3,Chăm sóc phụ nữ,Whisper,Băng vệ sinh,images/Logo/Whisper.png
+,,Always,"Băng vệ sinh, sản phẩm vệ sinh phụ nữ",
+,,Tampax,Băng vệ sinh dạng tampon,
+,,Secret,"Lăn khử mùi, sáp khử mùi cho nữ",
+4,Chăm sóc nam giới,Gillette,"Dao cạo râu, bọt cạo râu, gel cạo râu, sản phẩm chăm sóc da sau cạo",images/Logo/Gillette.png
+,,Old Spice,"Sáp khử mùi, lăn khử mùi, sữa tắm, sản phẩm chăm sóc cá nhân cho nam",
+,,Braun,"Máy cạo râu điện, máy triệt lông, các thiết bị chăm sóc cá nhân",
+,,Venus,Dao cạo dành cho nữ,
+5,Chăm sóc tóc,Head & Shoulders,"Dầu gội, dầu xả trị gàu",images/Logo/head-shoulders.jpg
+,,Pantene,"Dầu gội, dầu xả dưỡng tóc",images/Logo/Pantene.png
+,,Rejoice,"Dầu gội, dầu xả giúp tóc suôn mượt",images/Logo/Rejoice.png
+,,Herbal Essences,"Dầu gội, dầu xả chiết xuất tự nhiên",
+,,Vidal Sassoon,Các sản phẩm tạo kiểu và chăm sóc tóc chuyên sâu,
+6,Chăm sóc nhà cửa,Ambi Pur,"Nước hoa xịt phòng, máy khử mùi",images/Logo/ambi-pur.png
+,,Febreze,Sản phẩm khử mùi vải và không khí,
+,,Swiffer,"Khăn lau khô, ướt dùng một lần, cây lau nhà",
+,,Mr. Clean,"Nước lau sàn, dung dịch tẩy rửa đa năng",
+,,Dawn,Nước rửa chén,
+,,Fairy,Nước rửa chén,
+,,Bounty,Khăn giấy lau bếp,
+,,Charmin,Giấy vệ sinh,
+7,Chăm sóc răng miệng,Oral-B,"Bàn chải đánh răng (thường và điện), chỉ nha khoa, nước súc miệng",images/Logo/Oral-B.png
+,,Crest,"Kem đánh răng, nước súc miệng, sản phẩm làm trắng răng",
+,,Fixodent,Keo dán hàm giả,
+8,Chăm sóc da và cá nhân,Olay,"Các sản phẩm chăm sóc da mặt (kem dưỡng ẩm, serum, sữa rửa mặt)",
+,,Safeguard,"Xà phòng diệt khuẩn, sữa tắm",images/Logo/safeguard.png
+,,SK-II,"Mỹ phẩm cao cấp, chăm sóc da mặt",
+9,Chăm sóc sức khỏe,Vicks,"Sản phẩm trị cảm cúm, ho (ví dụ: Vicks VapoRub)",
+,,Clearblue,Que thử thai,
